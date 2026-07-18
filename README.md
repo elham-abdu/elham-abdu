@@ -51,12 +51,9 @@ I'm a final-year Software Engineering student passionate about building scalable
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=elham-abdu&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=elham-abdu&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elham-abdu&theme=dark&hide_border=true&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=elham-abdu&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=elham-abdu&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=elham-abdu&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=elham-abdu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
