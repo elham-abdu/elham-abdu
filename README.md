@@ -1,3 +1,9 @@
+# Hi, I'm Elham Abdu! 👋
+
+**Full-Stack Software Engineer & Technical Contributor**
+
+I'm a final-year Software Engineering student passionate about building scalable, production-ready systems. I thrive on solving complex backend challenges and contributing to high-impact projects. Currently focused on cloud architecture, system design, and AI-driven applications.
+
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elham-abdu)
