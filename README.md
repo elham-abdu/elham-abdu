@@ -4,6 +4,25 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eluu990)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koniabdu81@gmail.com) 
 
+## 🚀 Featured Experience
+
+<div align="center">
+
+**[Beleqet Global Freelance Ecosystem](https://github.com/Beleqet-Main-Ecosystem/beleqet-ecosystem-updated)**
+*Production-Grade Backend Contribution*
+
+| Tech Stack | Focus Area |
+| :--- | :--- |
+| **NestJS / TypeScript** | High-Concurrency Backend |
+| **BullMQ / Redis** | Distributed Task Queue |
+| **Jest** | Automated Test Infrastructure |
+
+> "Engineered and integrated critical backend modules for a production-grade freelance platform, including migration to a BullMQ queue system and implementation of a 322+ test suite to ensure system stability."
+
+</div>
+
+---
+
 ## 💻 Tech Stack:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -24,6 +43,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=elham-abdu&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=elham-abdu&theme=dark&hide_border=true)<br/>
